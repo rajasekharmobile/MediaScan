@@ -10,12 +10,11 @@
 
 P.s Must write a background service to do the task
 
-wrote this app for Macy's interview.
+wrote this app for Macy's interview. Unfortunatly they wanted me to go through each file system to scan instead of using android's built in content provider.
 
-They rejected me bcz they litterally wanted me to go through all the folders/files to Scan for the files.(which they didnt mention) 
+A small communication gap
 
-Which is a time consuming unnecessary operation, while android already provides Media storage content provider which you can use 
-to get the output instantaneously.
+
 
 
 
